@@ -1,1 +1,4 @@
 # Myntra_hackerramp_idea
+Fashion Vista 
+Fashion Vista is an interactive fashion platform designed to showcase street style inspirations from across India. The project features a user-friendly interface for exploring fashion trends, selecting outfits for various events, and engaging with a community of fashion enthusiasts. Users can earn rewards for their fashion contributions and participate in a trendsetting community. Key challenges included integrating diverse fashion elements, ensuring a seamless user experience, and implementing features for personalized outfit recommendations. The Figma prototype provides a visual representation of the design and functionality.  
+Figma Prototype: https://www.figma.com/proto/BMt3DaLnTX89E2BfKRCCdZ/Untitled?node-id=20-5127&starting-point-node-id=20%3A5127&t=qJkjNBy9svSyvmh6-1
